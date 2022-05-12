@@ -1,0 +1,24 @@
+.container{
+  background-image: url('https://i.postimg.cc/J0tgdb8W/ticket.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1100px;
+  height: 600px;
+}
+
+.fullname, .movieTitle{
+  text-align: center;
+  font-weight: bold;
+  font-family: '';
+}
+
+.fullname{
+  font-size: 35px;
+  padding-top: 85px;
+}
+
+.movieTitle{
+  padding-top: 45px;
+  font-size: 55px;
+}
